@@ -7,9 +7,12 @@ The simulator allows you to draw walls, generate mazes, and visually compare dif
 ## Features
 
 ### Implemented Algorithms
-- **BFS** (Breadth-First Search)  
-- **Dijkstra’s Algorithm**  
+- **BFS** (Breadth-First Search)
+![BFS](https://github.com/user-attachments/assets/2951dd70-ddc0-49da-87eb-07fcb291cb5d)
+- **Dijkstra’s Algorithm**
+![Dij](https://github.com/user-attachments/assets/f6597c90-73bd-4c0b-83dd-c898addf390a)
 - **A\*** (Manhattan distance heuristic)
+![A*](https://github.com/user-attachments/assets/67be0c5b-dc06-4af8-a062-e818dd5ad027)
 
 Algorithms display:
 - Open set  
