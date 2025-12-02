@@ -1,0 +1,45 @@
+# ---- Build output ----
+build/
+cmake-build*/
+out/
+dist/
+
+# ---- CMake ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Makefile2
+_target/
+*.cmake
+
+# ---- Binary files ----
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# ---- SFML cache / libraries (če jih kdaj dodaš) ----
+*.lib
+*.pdb
+
+# ---- Editor / OS files ----
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ---- VSCode ----
+.vscode/
+.settings/
+.idea/
+
+# ---- Misc ----
+*.DS_Store
+Thumbs.db
