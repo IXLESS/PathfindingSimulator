@@ -55,14 +55,6 @@ Algorithms display:
 ```bash
 sudo apt update
 sudo apt install libsfml-dev
-
-## Linux
-
-Install SFML
-(Ubuntu / Debian)
-```bash
-sudo apt update
-sudo apt install libsfml-dev
 ```
 
 Build the project
