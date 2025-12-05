@@ -1,7 +1,7 @@
 # Pathfinding Simulator
 
 An interactive pathfinding visualizer implemented in **C++** using **SFML**.  
-The simulator allows you to draw walls, generate mazes, and visually compare different pathfinding algorithms in real time.
+The simulator allows you to draw walls, generate mazes and visually compare different pathfinding algorithms in real time.
 
 
 ## Features
